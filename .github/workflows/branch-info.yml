@@ -18,7 +18,16 @@ jobs:
 
       - name: Fetch all branches
         run: |
-          git fetch --all
+          # Fetch all remote branches and create local tracking branches
+          git fetch origin
+          for branch in $(git ls-remote --heads origin | awk '{print $2}' | sed 's|refs/heads/||'); do
+            if [ "$branch" != "main" ]; then
+              git fetch origin $branch:$branch
+            fi
+          done
+
+          echo "✅ Local branches after fetch:"
+          git branch
 
       - name: Generate branch-info.txt
         run: |
@@ -27,6 +36,8 @@ jobs:
             sha=$(git rev-parse "$branch")
             echo "- $branch ($sha)" >> branch-info.txt
           done
+          echo "✅ Contents of branch-info.txt:"
+          cat branch-info.txt
 
       - name: Commit and push branch-info.txt to main branch
         run: |

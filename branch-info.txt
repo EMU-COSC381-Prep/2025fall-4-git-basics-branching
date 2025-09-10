@@ -4,25 +4,25 @@ Branches in this repo (with details):
   SHA: e5ca759274b54de965639234bcfe44b259dd4dbf
   Commits: 4
   Recent commits:
-    e5ca759 | Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Thu Sep 4 12:20:33 2025 -0400 | Added heroic dragon scene
-    bff91b1 | Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Thu Sep 4 12:17:36 2025 -0400 | Added a center path.
-    02460da | Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Thu Sep 4 12:10:16 2025 -0400 | Create README.md
-    0a85c05 | Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Thu Sep 4 12:08:32 2025 -0400 | Create story.py
+    e5ca759 | Author: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Committer: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Date: 2025-09-04T12:20:33-04:00 | Added heroic dragon scene
+    bff91b1 | Author: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Committer: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Date: 2025-09-04T12:17:36-04:00 | Added a center path.
+    02460da | Author: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-04T12:10:16-04:00 | Create README.md
+    0a85c05 | Author: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-04T12:08:32-04:00 | Create story.py
 - main
-  SHA: 9ac3acb2dd72b277a5373679b3db6c6d119bcb70
-  Commits: 21
+  SHA: 96404008ae0f8c0727bff979fcc45ec37cb55ea4
+  Commits: 23
   Recent commits:
-    9ac3acb | LongNguyenThanhLe <149942804+LongNguyenThanhLe@users.noreply.github.com> | Wed Sep 10 14:59:46 2025 -0400 | Enhance branch-info generation with commit details
-    46f1f71 | GitHub Actions <actions@github.com> | Wed Sep 10 16:28:48 2025 +0000 | Auto-update branch-info.txt
-    c85146a | Test Student <144061513+teststudentcosc381@users.noreply.github.com> | Wed Sep 10 12:28:33 2025 -0400 | Merge branch 'main' of github.com:EMU-COSC381-Prep/2025fall-4-git-basics-branching
-    1c6d637 | Test Student <144061513+teststudentcosc381@users.noreply.github.com> | Wed Sep 10 12:28:28 2025 -0400 | complete action
-    57cb30d | GitHub Actions <actions@github.com> | Wed Sep 10 16:12:40 2025 +0000 | Auto-update branch-info.txt
+    9640400 | Author: LongNguyenThanhLe <149942804+LongNguyenThanhLe@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-10T15:58:22-04:00 | Enhance branch-info.yml to include committer info
+    be1712d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-10T18:59:53Z | Auto-update branch-info.txt
+    9ac3acb | Author: LongNguyenThanhLe <149942804+LongNguyenThanhLe@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-10T14:59:46-04:00 | Enhance branch-info generation with commit details
+    46f1f71 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-10T16:28:48Z | Auto-update branch-info.txt
+    c85146a | Author: Test Student <144061513+teststudentcosc381@users.noreply.github.com> | Committer: Test Student <144061513+teststudentcosc381@users.noreply.github.com> | Date: 2025-09-10T12:28:33-04:00 | Merge branch 'main' of github.com:EMU-COSC381-Prep/2025fall-4-git-basics-branching
 - villain-path
   SHA: ee423f1fa675c14d48a5e70657a52d235ca93e73
   Commits: 5
   Recent commits:
-    ee423f1 | Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Thu Sep 4 12:24:09 2025 -0400 | Added run-away scene
-    7992a8a | Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Thu Sep 4 12:23:01 2025 -0400 | Added robbery scene
-    bff91b1 | Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Thu Sep 4 12:17:36 2025 -0400 | Added a center path.
-    02460da | Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Thu Sep 4 12:10:16 2025 -0400 | Create README.md
-    0a85c05 | Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Thu Sep 4 12:08:32 2025 -0400 | Create story.py
+    ee423f1 | Author: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Committer: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Date: 2025-09-04T12:24:09-04:00 | Added run-away scene
+    7992a8a | Author: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Committer: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Date: 2025-09-04T12:23:01-04:00 | Added robbery scene
+    bff91b1 | Author: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Committer: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Date: 2025-09-04T12:17:36-04:00 | Added a center path.
+    02460da | Author: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-04T12:10:16-04:00 | Create README.md
+    0a85c05 | Author: Siyuan Jiang <2203934+sjiang1@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-04T12:08:32-04:00 | Create story.py

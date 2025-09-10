@@ -3,6 +3,9 @@ name: Generate Branch Info
 on:
   push
 
+permissions:
+  contents: write  
+  
 jobs:
   generate-branch-info:
     runs-on: ubuntu-latest
